@@ -1,0 +1,18 @@
+[
+  {
+    "nombre": "Nicolas",
+    "email": "213123",
+    "telefono": "1233123",
+    "direccion": "213312",
+    "edad": "1232",
+    "id": 1
+  },
+  {
+    "nombre": "1231123",
+    "email": "",
+    "telefono": "1231",
+    "direccion": "1231123",
+    "edad": "123",
+    "id": 2
+  }
+]
